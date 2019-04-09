@@ -1,0 +1,13 @@
+[flake8]
+
+exclude = migrations, manage.py, __init__.py
+max-line-length = 120
+
+# Temporary don't exclude those rules
+# ignore = E501,E302,W503,E203,E731
+
+# E501                  line too long
+# E302                  wrong number of blank lines
+# W503                  line break before binary operator
+# E203                  whitespace before ':'
+# E731                  do not assign a lambda expression, use a def

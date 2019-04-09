@@ -1,0 +1,5 @@
+django==2.2
+djangorestframework==3.7.3
+psycopg2==2.7.3.2
+black==19.3b0
+flake8==3.7.7
