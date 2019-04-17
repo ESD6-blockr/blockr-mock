@@ -1,5 +1,5 @@
 ## Blockr-mock
-This repository contains a mock server for the Sidechains en Smartcontracts repository.
+This repository contains a mock server for the Sidechains and Smartcontracts repository.
 
 ### Development
  - First install make if you don't have this already
