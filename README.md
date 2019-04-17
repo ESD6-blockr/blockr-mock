@@ -5,7 +5,7 @@ This repository contains a mock server for the Sidechains en Smartcontracts repo
  - First install make if you don't have this already
  - Run `cp .example.env .env`
  - Run `make dev`
- - Run 'docker-compose run --rm backend python manage.py createsuperuser' and fill in the details
+ - Run `docker-compose run --rm backend python manage.py createsuperuser` and fill in the details
  - Run `make fake` to insert some fake data within
 
 ### Formatting
